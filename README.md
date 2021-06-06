@@ -4,7 +4,7 @@ Download and Install JDK 1.8
 Download and unzip gradle and install
 set GRADLE_HOME and JAVA_HOME environment variables
 
-Run Tests:Use the runner file :\src\test\java\Runners\AutomatedTestRunner.java
+Run Tests:Use the runner file :src/test/java/Runners/AutomatedTestRunner.java
 
 Test Reports:
 /target/site/serenity/index.html
